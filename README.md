@@ -17,6 +17,7 @@ https://github.com/Vancheszz/ordering-microservice.git
 https://github.com/Vancheszz/screening-microservice
 лаб2 поднять несколько контейнеров с выбранными образами андроид/определить каким подходом бедет проще это сделать  
 лаб3 реализация ввода ввыдода в обход adb(чтение из /dev/graphics/fb0, запись в /dev/input/event[X]), получение этих данных Control Core сервисом
+
 лаб4 Ordering/Screening микросервисы - бизнес логика, обработка полученных данных, отправка/получение данных с API GateWay/ Дописать Control Core(автоматизация зарзвертывания) 
   
 Щербак:    
